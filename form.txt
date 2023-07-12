@@ -1,0 +1,67 @@
+Visa Type = University Enrollment
+
+Name = PARSA
+
+Last Name = VANDY
+
+Gender = Male
+
+Date of Birth = 1983-SEP-16
+
+Place of Birth = Tehran
+
+Country of Birth = IRAN
+
+Current Nationality = IRAN
+
+Original Nationality = IRAN
+
+Marital Status = SINGLE
+
+Passport Number = H53449037
+
+Date of Issue = 2020-JUL-30
+
+Valid until = 2025-JUL-30
+
+Issuing Authority = IRAN
+
+Country = IRAN
+
+State = TEHRAN
+
+City = TEHRAN
+
+Address = dhsadghgsdad sadssdads sad sad
+
+Postal Code = 2345432134
+
+E-mail = parsa72554@gmail.com
+
+Mobile = 9194113100
+
+Number of Entries = MULTIPLE
+
+Duration of Stay = 90
+
+Intended date of journey = 2020-AUG-10
+
+Application Reference Number = IRNTYBXJ0022
+
+Guarantor First Name = ABAS
+
+Guarantor Surname = BO AZAR
+
+Guarantor Nationality = IRAN
+
+Guarantor State = TEHRAN
+
+Guarantor City = TEHRAN
+
+Guarantor Address = xxx xxx xxx
+
+Guarantor Zip Code = xxx
+
+LICENSE CODE = E0wfngPFs7Jzaa0yd1ZBckGihmkAyUJcC4YaA_JuQo-jS7DuQlqx2tTNoycfSCDu2SVm88K2UdIFM3GbtHldH78TtXKkGzjv23SX3sHcDiURSQwi1QjMicMfd8d7t3cdlGwbq_DQUKuDLoUQyVfghd8ll8B7CrRBrgIz4cZyiRJ3G89ySkrnUrCUu72HydQjDUAHPhtCI1Iwsom4NBh8J0Fd7OeqmuJ7mQrBx2jTDYFynHAfdtLwoxg0m7356lw4Gv-UiAITWpfw5coNuGBu8mwc3jJTYoGQS8P9d6fKentK4f7P1n7wjZUTZ4N9iHsOm2HAsWUe6Wfq7A69wRYNkQ==
+
+ACTIVATION CODE = activ-a171c01494ece3d6f86585e74658de8fv3
