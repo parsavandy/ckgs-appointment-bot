@@ -1,0 +1,13 @@
+PySimpleGUI
+requests
+selenium
+pygame
+machineid
+cloudscraper
+pip
+wheel
+certifi
+idna
+urllib3
+pyparsing
+setuptools
